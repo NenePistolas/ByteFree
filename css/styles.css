@@ -1,0 +1,15 @@
+/* Globales */
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+/* Header */
+.barra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+ 
+}
